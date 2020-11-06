@@ -1,0 +1,23 @@
+{
+  "name": "Portfolio",
+  "version": "1.0.0",
+  "description": "This is the beginning of my portfolio. I will be using Tailwind CSS to create this.",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/style.css -o public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasmineteters/Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasmineteters/Portfolio/issues"
+  },
+  "homepage": "https://github.com/jasmineteters/Portfolio#readme",
+  "dependencies": {
+    "tailwindcss": "^1.9.6"
+  }
+}
